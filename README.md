@@ -46,5 +46,4 @@ I am a third-year student 👨‍🎓 of St. Petersburg State University.
 ### :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mi-sts&count_private=true&theme=dark)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mi-sts&count_private=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mi-sts&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
