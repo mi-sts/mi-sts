@@ -15,7 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=mi-sts&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi, I am Stanislav Mishchenko!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
