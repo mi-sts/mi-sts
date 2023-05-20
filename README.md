@@ -18,8 +18,8 @@
 </h1>
 </div>
 
-### 👨‍💻: About Me:
-I am a third-year student 👨‍🎓 of St. Petersburg State University.
+### About Me:
+I am a third-year student of St. Petersburg State University.
 - 🔭 I'm currently working as a **Kotlin** intern developer on a desktop application.
 - 🌱 I'm currently upgrading my skills with **Unity** and **C#**.
 - ⚡ In my free time, I develop games.
