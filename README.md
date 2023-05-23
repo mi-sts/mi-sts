@@ -8,9 +8,6 @@
     <a href="https://t.me/mi_stas">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://mi-stas.itch.io/">
-      <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="ItchIO Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=mi-sts&style=flat-square&color=blue" alt=""/>
   <h1>
