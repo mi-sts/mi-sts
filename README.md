@@ -16,24 +16,24 @@
 </div>
 
 ### About Me:
-I am a third-year student of St. Petersburg State University.
+I am a four-year student of St. Petersburg State University.
 - 🔭 I'm currently working as a **Kotlin** intern developer on a desktop application.
-- 🌱 I'm currently upgrading my skills with **Unity** and **C#**.
-- ⚡ In my free time, I develop games.
+- 🌱 I'm currently upgrading my skills with **Kotlin** and **Android**.
+- ⚡ In my free time, I develop games using Unity.
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mi_stas) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-mishchenko-371966242/) 
 
 ---
 
 ### 🛠️ Languages and tools:
 <div>
+  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/kotlin.svg" title="Kotlin" alt="Kotlin" height=40/>&nbsp;
+  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/tornadofx.png" title="TornadoFX" alt="TornadoFX" height=40/>&nbsp;
+  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/javafx.png" title="JavaFX" alt="JavaFX" height=40/>&nbsp;
+  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" height=40/>&nbsp;
   <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/unity.svg" title="Unity" alt="Unity" height=40/>&nbsp;
   <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/csharp.svg" title="C#" alt="C#" height=40/>&nbsp;
   <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/zenject.png" title="Zenject" alt="Zenject" height=40/>&nbsp;
-   <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/godot.svg" title="Godot engine" alt="Godot engine" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/kotlin.svg" title="Kotlin" alt="Kotlin" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/javafx.png" title="JavaFX" alt="JavaFX" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/tornadofx.png" title="TornadoFX" alt="TornadoFX" height=40/>&nbsp;
+  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/godot.svg" title="Godot engine" alt="Godot engine" height=40/>&nbsp;
   <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/python.svg" title="Python" alt="Python" height=40/>&nbsp;
 </div>
 
