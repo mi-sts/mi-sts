@@ -16,7 +16,7 @@
 </div>
 
 ### About Me:
-I am a four-year student of St. Petersburg State University.
+I am a 4th year student of St. Petersburg State University.
 - 🔭 I'm currently working as a **Kotlin** intern developer on a desktop application.
 - 🌱 I'm currently upgrading my skills with **Kotlin** and **Android**.
 - ⚡ In my free time, I develop games using Unity.
