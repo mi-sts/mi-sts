@@ -17,9 +17,6 @@
 
 ### About Me:
 I am a 4th year student of St. Petersburg State University.
-- 🔭 I'm currently working as a **Kotlin** intern developer on a desktop application.
-- 🌱 I'm currently upgrading my skills with **Kotlin** and **Android**.
-- ⚡ In my free time, I develop games using Unity.
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mi_stas) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-mishchenko-371966242/) 
 
 ---
