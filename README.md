@@ -8,6 +8,9 @@
     <a href="https://t.me/mi_stas">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
+    <a href="https://mi-stas.itch.io/">
+      <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="ItchIO Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=mi-sts&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -17,7 +20,7 @@
 
 ### About Me:
 I am a 4th year student of St. Petersburg State University.
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mi_stas) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-mishchenko-371966242/) 
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mi_stas) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-mishchenko-371966242/) [![ItchIO Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://mi-stas.itch.io/)
 
 ---
 
