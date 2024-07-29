@@ -19,7 +19,7 @@
 </div>
 
 ### About Me:
-Currently developing a data storage systems in C++ at YADRO.
+Currently developing a data storage system (C++) at YADRO.
 
 I also have experience in Unity/C#, Kotlin and Python.
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mi_stas) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-mishchenko-371966242/) [![ItchIO Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://mi-stas.itch.io/)
