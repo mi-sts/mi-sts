@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="ItchIO Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=mi-sts&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi, I am Stanislav Mishchenko!
 </h1>
