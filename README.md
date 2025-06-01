@@ -25,21 +25,6 @@ Have experience in Unity/C#, Kotlin and Python.
 
 ---
 
-### 🛠️ Languages and tools:
-<div>
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/kotlin.svg" title="Kotlin" alt="Kotlin" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/tornadofx.png" title="TornadoFX" alt="TornadoFX" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/javafx.png" title="JavaFX" alt="JavaFX" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/unity.svg" title="Unity" alt="Unity" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/csharp.svg" title="C#" alt="C#" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/zenject.png" title="Zenject" alt="Zenject" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/godot.svg" title="Godot engine" alt="Godot engine" height=40/>&nbsp;
-  <img src="https://github.com/mi-sts/mi-sts/blob/main/icons/python.svg" title="Python" alt="Python" height=40/>&nbsp;
-</div>
-
----
-
 ### :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mi-sts&count_private=true&theme=dark)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mi-sts&count_private=true&theme=dark)
